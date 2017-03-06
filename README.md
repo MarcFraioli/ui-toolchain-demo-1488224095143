@@ -1,6 +1,6 @@
 ## Run on Bluemix
 
-* cd to a directory you want the application in. doodlebug.
+* cd to a directory you want the application in. whatevs, yo.
 * ```git clone https://github.com/open-toolchain/Microservices_UI```
 * cd into the application.
 * ```cf login```
