@@ -7,7 +7,7 @@
 * ```cf push <name of your application>```
 
 ---
-## More or less
+## More or less or some
 
 * https://developer.ibm.com/bluemix/2015/03/16/sample-application-using-microservices-bluemix/
 
